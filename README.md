@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eclemens86
 
-- 👀 I’m interested in:
+- 👀 I’m interested in: Software enginerring and Data Analytics
 
 - 🌱 I’m currently learning:
 Python
@@ -9,8 +9,6 @@ SAS
 R
 C
 MIPS
-
-- 💞️ I’m looking to collaborate on:
 
 - 📫 How to reach me:
 Phone: 612-840-8616
