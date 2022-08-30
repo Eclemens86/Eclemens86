@@ -5,10 +5,8 @@
 - 🌱 I’m currently learning:
 Python
 JavaScript
-SAS
 R
-C
-MIPS
+SAS
 
 - 📫 How to reach me:
 Phone: 612-840-8616
