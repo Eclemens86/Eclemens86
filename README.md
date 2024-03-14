@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Eclemens86
 
-- 👀 I’m interested in: Software enginerring and Data Analytics
+- 👀 I’m interested in: Data Analytics, Modeling, and Visualization
 
 - 🌱 I’m currently learning:
 Python
-JavaScript
-R
+SQL
 SAS
+R
 
 - 📫 How to reach me:
 Phone: 612-840-8616
